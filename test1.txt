@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 0878-8005
-
- Directory of C:\Users\umaka\Desktop\MyProject
-
-01/31/2017  02:20 PM    <DIR>          .
-01/31/2017  02:20 PM    <DIR>          ..
-01/31/2017  02:20 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  870,150,537,216 bytes free
+bhanu comment 1
